@@ -1,24 +1,10 @@
-# README
+#### 一个做好基础建设的空专案
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##### 内容：
+- devise 用户系统
+- bootstrap
+- font-awesome
+- simple_form
+- rest-client
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+> 这些内容基本是你每次专案都要做的重复性工作，现在做好了，以后新专案只要来拉这个专案，在此基础上开发即可，节省重复性的工作。
